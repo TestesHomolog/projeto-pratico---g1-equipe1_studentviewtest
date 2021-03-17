@@ -1,19 +1,21 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`ADS - Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`PROJETO - Eixo 1`
 
-`SEMESTRE`
+`2021-S1`
 
 ## Integrantes
 
 - Obi-Wan Kenobi 
+- XYZ
 - Anakin Skywalker
+- WRSMACHADO
 
 ## Professor
 
-- Mestre Yoda
+- Mestre Yoda W
 
 # Documentação
 
