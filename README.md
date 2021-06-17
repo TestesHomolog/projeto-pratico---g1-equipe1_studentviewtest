@@ -12,6 +12,7 @@
 - XYZ 17/06 A1
 - Anakin Skywalker
 - WRSMACHADO
+- Maria Aparecida 17/06 A2
 
 ## Professor
 
