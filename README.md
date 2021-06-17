@@ -9,7 +9,7 @@
 ## Integrantes
 
 - Obi-Wan Kenobi 
-- XYZ
+- XYZ 17/06 A1
 - Anakin Skywalker
 - WRSMACHADO
 
